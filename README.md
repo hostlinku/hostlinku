@@ -2,7 +2,7 @@
 
 Hostlinku is an AI model gateway for applications and coding tools. Use a Hostlinku API key with the OpenAI or Anthropic SDK.
 
-[Documentation](https://docs.hostlinku.com/) · [Models and pricing](https://hostlinku.com/models) · [Console](https://console.hostlinku.com/)
+[Documentation](https://docs.hostlinku.com/) · [Models and pricing](https://hostlinku.com/models) · [Console](https://console.hostlinku.com/) · [Status](https://status.hostlinku.com/)
 
 ## Start here
 
